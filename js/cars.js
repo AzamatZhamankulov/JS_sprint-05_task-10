@@ -32,7 +32,7 @@ class ElectroCars extends Cars {
   }
   
 const bmw = new Cars('BMW X6', 2019, 617, 'Black <br> <hr>');
-jiguli.showInfo();
+bmw.showInfo();
 
 const tesla = new ElectroCars("Tesla Model 3", 2022, 283, 'Silver', 593);
 tesla.showInfo();

@@ -44,4 +44,4 @@ vassabi.serve();
 vassabi.showTotalServed();
 vassabi.setServed(15);
 
-document.write("<hr>")
+document.write("<hr>");
